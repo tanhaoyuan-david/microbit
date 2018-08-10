@@ -1,4 +1,4 @@
-#disaplay a digit "2"
+#display a digit "2"
 
 from microbit import *
 #display digit one
